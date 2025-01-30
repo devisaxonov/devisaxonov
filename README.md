@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="" style="width: 500px; margin-left: 500px;">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="" style="width: 500px; margin-left: 200px;">
 <h1 align="center">Hi 👋, I'm Isaxonov Xushnidbek</h1>
 <h3 align="center">A passionate Full-Stack Developer from Uzbekistan</h3>
 
