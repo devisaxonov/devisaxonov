@@ -1,3 +1,4 @@
+<img src="https://dribbble.com/shots/16762086-Programmer-character-animation/attachments/11810738?mode=media" alt="">
 <h1 align="center">Hi 👋, I'm Isaxonov Xushnidbek</h1>
 <h3 align="center">A passionate Full-Stack Developer from Uzbekistan</h3>
 
